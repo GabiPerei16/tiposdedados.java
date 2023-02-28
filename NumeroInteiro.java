@@ -7,8 +7,7 @@ public class NumeroInteiro {
         Scanner input = new Scanner(System.in);
         int numero;
 
-        System.out.println("Informe o numero ");
-        numero = input.nextInt();
+       c
 
         if (numero > 0 )
         {
