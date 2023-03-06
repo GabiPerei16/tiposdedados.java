@@ -7,7 +7,10 @@ public class NumeroInteiro {
         Scanner input = new Scanner(System.in);
         int numero;
 
-       c
+        System.out.println("Informe o valor do numero : ");
+        numero = input.nextInt();
+
+       
 
         if (numero > 0 )
         {
